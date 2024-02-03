@@ -2,11 +2,12 @@
 
 ## Mission Statement
 
-_Describe purpose of the working group._
+Define changes to existing specifications and new specifications needed to
+support the OCI runtime on the FreeBSD platform.
 
 ## Background
 
-Here is the [link](https://github.com/opencontainers/tob/blob/main/proposals/...)
+Here is the [link](https://github.com/opencontainers/tob/blob/main/proposals/wg-freebsd-runtime.md)
 to the original proposal to create this working group.
 
 ## Governance
@@ -14,6 +15,8 @@ to the original proposal to create this working group.
 Link to [governance](./GOVERNANCE.md) document.
 
 ## Meetings
+
+To be decided.
 
 - WG Meeting: _[Day at Time Timezone](https://zoom.us...)_ (weekly). [Convert to your timezone](https://dateful.com/convert/...).
 - [Meeting notes and Agenda](https://hackmd.io/...).
@@ -34,7 +37,10 @@ Details for issues and pull requests are described in the [contributing guidelin
 
 ## Organizers
 
-- _Name_ _(@handle)_
+- Doug Rabson (@dfr)
+- Samuel Karp (@samuelkarp)
+- Ed Maste (@emaste)
+- Dave Cottlehuber (@dch)
 
 ## Contact
 

@@ -44,4 +44,4 @@ Details for issues and pull requests are described in the [contributing guidelin
 
 ## Contact
 
-- Slack: [#wg-...](https://opencontainers.slack.com/messages/wg-...)
+- Slack: [#wg-freebsd-runtime](https://opencontainers.slack.com/messages/wg-freebsd-runtime)

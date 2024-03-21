@@ -18,7 +18,7 @@ Link to [governance](./GOVERNANCE.md) document.
 
 To be decided.
 
-- WG Meeting: _[Thursday at 12 Eastern](https://www.google.com/url?q=https://us06web.zoom.us/j/86975374751?pwd%3DkNtu4rsMmqsx70aWdV8IkTXpq5LqPN.1&sa=D&source=calendar&ust=1711389141617796&usg=AOvVaw2TstxaZesfoEqy4NMeMfAf)_ (bi-weekly). [Convert to your timezone](https://dateful.com/convert/...).
+- WG Meeting: _[Thursday at 12 Eastern](https://us06web.zoom.us/j/86975374751?pwd=kNtu4rsMmqsx70aWdV8IkTXpq5LqPN.1)_ (bi-weekly). [Convert to your timezone](https://dateful.com/convert/...).
 - [Meeting notes and Agenda](https://hackmd.io/hq_NOVL4RZS7xYYMqfJ6-A).
 - [Archive of Past Minutes](./minutes).
 

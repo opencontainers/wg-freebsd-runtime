@@ -18,8 +18,8 @@ Link to [governance](./GOVERNANCE.md) document.
 
 To be decided.
 
-- WG Meeting: _[Day at Time Timezone](https://zoom.us...)_ (weekly). [Convert to your timezone](https://dateful.com/convert/...).
-- [Meeting notes and Agenda](https://hackmd.io/...).
+- WG Meeting: _[Thursday at 12 Eastern](https://us06web.zoom.us/j/86975374751?pwd=kNtu4rsMmqsx70aWdV8IkTXpq5LqPN.1)_ (bi-weekly). [Convert to your timezone](https://dateful.com/convert/...).
+- [Meeting notes and Agenda](https://hackmd.io/hq_NOVL4RZS7xYYMqfJ6-A).
 - [Archive of Past Minutes](./minutes).
 
 ## Documents

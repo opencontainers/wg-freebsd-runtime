@@ -16,7 +16,7 @@ Link to [governance](./GOVERNANCE.md) document.
 
 ## Meetings
 
-- WG Meeting: NEW DAY AND TIME_[Friday at 12:30 Eastern](https://us06web.zoom.us/j/86975374751?pwd=kNtu4rsMmqsx70aWdV8IkTXpq5LqPN.1)_ (bi-weekly beginning May 24, 2024). [Convert to your timezone](https://dateful.com/convert/...).
+- WG Meeting: NEW NEW DAY AND TIME_[Monday at 11:30 Eastern](https://us06web.zoom.us/j/89400251044?pwd=bthdC5BOwQlahSaKlCxOFKSJ5PZba7.1)_ (bi-weekly beginning July 15, 2024). [Convert to your timezone](https://dateful.com/convert/...).
 - [Meeting notes and Agenda](https://hackmd.io/hq_NOVL4RZS7xYYMqfJ6-A).
 - [Archive of Past Minutes](./minutes).
 
